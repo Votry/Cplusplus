@@ -6,7 +6,7 @@
 #include <cstdlib>*
 using namespace std;
 int main() {
-	std::cout<<"Hello, je fonctionnne\n";
+	std::cout<<"Hello, Zo a modifié avec un autre ordinateur\n";
 	return 0;  
     
     }
